@@ -11,7 +11,7 @@ public class principal {
         
         Auto autos = new Auto();
         
-        
+        System.out.println("moxigod");
     }
 
     
